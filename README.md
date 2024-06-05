@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexprime20&show_icons=true&theme=radical)
 
 ### Trofeos
-[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alexprime20)](https://github.com/ryo-ma/github-profile-trophy)
