@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy [Alejandro Marin] 👋
 
-<!--
-**Alexprime20/Alexprime20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí
+- 🎓 Estudiante de Ingeniería de Sistemas.
+- 🌱 Actualmente estoy aprendiendo 
 
-Here are some ideas to get you started:
+### Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+### Trofeos
+[![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario)](https://github.com/ryo-ma/github-profile-trophy)
