@@ -11,12 +11,13 @@
 ---
 
 ### Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
 
 ---
 
