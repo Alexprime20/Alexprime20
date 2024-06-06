@@ -12,24 +12,14 @@
 
 ### Tecnologías y Herramientas
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript">
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js">
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react">
-  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python">
-  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java">
-  <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql">
-  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker">
-  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
-  <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows">
-  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws">
-  <img src="https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoft-azure">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic-square&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic-square&logo=python)
 </p>
+
 
 ---
 
