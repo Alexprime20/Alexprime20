@@ -11,12 +11,12 @@
 ---
 
 ### Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoWidth=40&logoHeight=40)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoWidth=40&logoHeight=40)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoWidth=40&logoHeight=40)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoWidth=40&logoHeight=40)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoWidth=40&logoHeight=40)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoWidth=40&logoHeight=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoWidth=40&logoHeight=40)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoWidth=40&logoHeight=40)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoWidth=40&logoHeight=40)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoWidth=40&logoHeight=40)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoWidth=40&logoHeight=40)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoWidth=40&logoHeight=40)
 
 
 
