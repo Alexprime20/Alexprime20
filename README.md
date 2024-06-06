@@ -11,14 +11,12 @@
 ---
 
 ### Tecnologías y Herramientas
-[![JavaScript](logos/javascript.png)](https://www.javascript.com/)
-[![Node.js](logos/nodejs.png)](https://nodejs.org/)
-[![React](logos/react.png)](https://reactjs.org/)
-[![HTML5](logos/html5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](logos/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python](logos/python.png)](https://www.python.org/)
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript&logoWidth=40&logoHeight=40)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic-square&logo=node.js&logoWidth=40&logoHeight=40)
+![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react&logoWidth=40&logoHeight=40)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5&logoWidth=40&logoHeight=40)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoWidth=40&logoHeight=40)
+![Python](https://img.shields.io/badge/-Python-black?style=plastic-square&logo=python&logoWidth=40&logoHeight=40)
 
 
 ---
