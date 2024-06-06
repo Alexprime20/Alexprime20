@@ -1,16 +1,16 @@
 ![Header](https://raw.githubusercontent.com/Alexprime20/Alexprime20/main/Alexprime20%20(4).png)
 
-# ¡Hola! Soy [Alejandro Marin] 👋
+Hello! I'm [Alejandro Marin] 👋
 
 > "El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs
 
-### Sobre mí
-- 🎓 Estudiante de Ingeniería de Sistemas.
-- 🌱 Actualmente estoy aprendiendo
+About Me
+- 🎓 Student of Systems Engineering.
+- 🌱 Currently, I'm learning
 
 ---
 
-### Tecnologías y Herramientas
+### Technologies and Tools
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript&logoWidth=40&logoHeight=40)](https://www.javascript.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic-square&logo=node.js&logoWidth=40&logoHeight=40)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react&logoWidth=40&logoHeight=40)](https://reactjs.org/)
@@ -86,13 +86,13 @@
 
 ---
 
-### Estadísticas de GitHub
+### GitHub Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexprime20&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexprime20&layout=compact&theme=radical)
 
 ---
 
-### Trofeos
+### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alexprime20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
