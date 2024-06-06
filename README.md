@@ -1,4 +1,4 @@
-![Header][(https://github.com/Alexprime20/Alexprime20/blob/main/Alexprime20%20(4).png)]
+![Header](https://raw.githubusercontent.com/Alexprime20/Alexprime20/main/Alexprime20%20(4).png)
 
 # ¡Hola! Soy [Alejandro Marin] 👋
 
