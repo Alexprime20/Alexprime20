@@ -44,4 +44,5 @@
 
 ---
 
-![Gif](https://path-to-your-gif)
+![GIF](https://raw.githubusercontent.com/Alexprime20/Alexprime20/main/giphy.webp)
+
