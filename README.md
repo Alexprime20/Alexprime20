@@ -39,7 +39,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic-square&logo=mysql&logoWidth=40&logoHeight=40)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-black?style=plastic-square&logo=sqlite&logoWidth=40&logoHeight=40)](https://www.sqlite.org/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=plastic-square&logo=redis&logoWidth=40&logoHeight=40)](https://redis.io/)
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic-square&logo=firebase&logoWidth=40&logoHeight=40)](
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic-square&logo=firebase&logoWidth=40&logoHeight=40)
 [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=plastic-square&logo=apache%20kafka&logoWidth=40&logoHeight=40)](https://kafka.apache.org/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=plastic-square&logo=elasticsearch&logoWidth=40&logoHeight=40)](https://www.elastic.co/elasticsearch/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=plastic-square&logo=apache%20spark&logoWidth=40&logoHeight=40)](https://spark.apache.org/)
