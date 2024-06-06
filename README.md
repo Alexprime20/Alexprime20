@@ -11,12 +11,31 @@
 ---
 
 ### Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript&logoWidth=40&logoHeight=40)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic-square&logo=node.js&logoWidth=40&logoHeight=40)
-![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react&logoWidth=40&logoHeight=40)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5&logoWidth=40&logoHeight=40)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoWidth=40&logoHeight=40)
-![Python](https://img.shields.io/badge/-Python-black?style=plastic-square&logo=python&logoWidth=40&logoHeight=40)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic-square&logo=javascript&logoWidth=40&logoHeight=40)](https://www.javascript.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic-square&logo=node.js&logoWidth=40&logoHeight=40)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-black?style=plastic-square&logo=react&logoWidth=40&logoHeight=40)](https://reactjs.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic-square&logo=html5&logoWidth=40&logoHeight=40)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic-square&logo=css3&logoWidth=40&logoHeight=40)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/-Python-black?style=plastic-square&logo=python&logoWidth=40&logoHeight=40)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-black?style=plastic-square&logo=java&logoWidth=40&logoHeight=40)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/-C++-black?style=plastic-square&logo=c%2B%2B&logoWidth=40&logoHeight=40)](https://www.cplusplus.com/)
+[![Swift](https://img.shields.io/badge/-Swift-black?style=plastic-square&logo=swift&logoWidth=40&logoHeight=40)](https://swift.org/)
+[![Ruby](https://img.shields.io/badge/-Ruby-black?style=plastic-square&logo=ruby&logoWidth=40&logoHeight=40)](https://www.ruby-lang.org/)
+[![Go](https://img.shields.io/badge/-Go-black?style=plastic-square&logo=go&logoWidth=40&logoHeight=40)](https://golang.org/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=plastic-square&logo=php&logoWidth=40&logoHeight=40)](https://www.php.net/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic-square&logo=typescript&logoWidth=40&logoHeight=40)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-black?style=plastic-square&logo=angular&logoWidth=40&logoHeight=40)](https://angular.io/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=plastic-square&logo=vue.js&logoWidth=40&logoHeight=40)](https://vuejs.org/)
+[![Django](https://img.shields.io/badge/-Django-black?style=plastic-square&logo=django&logoWidth=40&logoHeight=40)](https://www.djangoproject.com/)
+[![Spring](https://img.shields.io/badge/-Spring-black?style=plastic-square&logo=spring&logoWidth=40&logoHeight=40)](https://spring.io/)
+[![Express.js](https://img.shields.io/badge/-Express.js-black?style=plastic-square&logo=express&logoWidth=40&logoHeight=40)](https://expressjs.com/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=plastic-square&logo=flask&logoWidth=40&logoHeight=40)](https://palletsprojects.com/p/flask/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=plastic-square&logo=docker&logoWidth=40&logoHeight=40)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=plastic-square&logo=kubernetes&logoWidth=40&logoHeight=40)](https://kubernetes.io/)
+[![Git](https://img.shields.io/badge/-Git-black?style=plastic-square&logo=git&logoWidth=40&logoHeight=40)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic-square&logo=github&logoWidth=40&logoHeight=40)](https://github.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb&logoWidth=40&logoHeight=40)](https://www.mongodb.com/)
+
 
 
 ---
