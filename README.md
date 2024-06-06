@@ -51,7 +51,6 @@
 [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-black?style=plastic-square&logo=google%20cloud&logoWidth=40&logoHeight=40)](https://cloud.google.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic-square&logo=heroku&logoWidth=40&logoHeight=40)](https://www.heroku.com/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=plastic-square&logo=digitalocean&logoWidth=40&logoHeight=40)](https://www.digitalocean.com/)
-### Tecnologías y Herramientas (Nuevas)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=plastic-square&logo=tensorflow&logoWidth=40&logoHeight=40)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=plastic-square&logo=pytorch&logoWidth=40&logoHeight=40)](https://pytorch.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=plastic-square&logo=scikit-learn&logoWidth=40&logoHeight=40)](https://scikit-learn.org/)
@@ -73,7 +72,6 @@
 [![Ansible](https://img.shields.io/badge/-Ansible-black?style=plastic-square&logo=ansible&logoWidth=40&logoHeight=40)](https://www.ansible.com/)
 [![Puppet](https://img.shields.io/badge/-Puppet-black?style=plastic-square&logo=puppet&logoWidth=40&logoHeight=40)](https://puppet.com/)
 [![Chef](https://img.shields.io/badge/-Chef-black?style=plastic-square&logo=chef&logoWidth=40&logoHeight=40)](https://www.chef.io/)
-### Herramientas de Integración y Colaboración
 [![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic-square&logo=jenkins&logoWidth=40&logoHeight=40)](https://www.jenkins.io/)
 [![CircleCI](https://img.shields.io/badge/-CircleCI-black?style=plastic-square&logo=circleci&logoWidth=40&logoHeight=40)](https://circleci.com/)
 [![Travis CI](https://img.shields.io/badge/-Travis%20CI-black?style=plastic-square&logo=travis%20ci&logoWidth=40&logoHeight=40)](https://travis-ci.com/)
@@ -85,7 +83,6 @@
 [![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-black?style=plastic-square&logo=microsoft%20teams&logoWidth=40&logoHeight=40)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 [![Zoom](https://img.shields.io/badge/-Zoom-black?style=plastic-square&logo=zoom&logoWidth=40&logoHeight=40)](https://zoom.us/)
 [![Google Meet](https://img.shields.io/badge/-Google%20Meet-black?style=plastic-square&logo=google%20meet&logoWidth=40&logoHeight=40)](https://meet.google.com/)
-
 
 
 
