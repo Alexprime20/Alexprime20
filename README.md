@@ -35,6 +35,22 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=plastic-square&logo=git&logoWidth=40&logoHeight=40)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic-square&logo=github&logoWidth=40&logoHeight=40)](https://github.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb&logoWidth=40&logoHeight=40)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic-square&logo=postgresql&logoWidth=40&logoHeight=40)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic-square&logo=mysql&logoWidth=40&logoHeight=40)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-black?style=plastic-square&logo=sqlite&logoWidth=40&logoHeight=40)](https://www.sqlite.org/)
+[![Redis](https://img.shields.io/badge/-Redis-black?style=plastic-square&logo=redis&logoWidth=40&logoHeight=40)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic-square&logo=firebase&logoWidth=40&logoHeight=40)](
+[![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=plastic-square&logo=apache%20kafka&logoWidth=40&logoHeight=40)](https://kafka.apache.org/)
+[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=plastic-square&logo=elasticsearch&logoWidth=40&logoHeight=40)](https://www.elastic.co/elasticsearch/)
+[![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=plastic-square&logo=apache%20spark&logoWidth=40&logoHeight=40)](https://spark.apache.org/)
+[![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-black?style=plastic-square&logo=apache%20hadoop&logoWidth=40&logoHeight=40)](https://hadoop.apache.org/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic-square&logo=graphql&logoWidth=40&logoHeight=40)](https://graphql.org/)
+[![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-black?style=plastic-square&logo=restful%20api&logoWidth=40&logoHeight=40)](https://restfulapi.net/)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=plastic-square&logo=amazon%20aws&logoWidth=40&logoHeight=40)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-black?style=plastic-square&logo=microsoft%20azure&logoWidth=40&logoHeight=40)](https://azure.microsoft.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-black?style=plastic-square&logo=google%20cloud&logoWidth=40&logoHeight=40)](https://cloud.google.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic-square&logo=heroku&logoWidth=40&logoHeight=40)](https://www.heroku.com/)
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=plastic-square&logo=digitalocean&logoWidth=40&logoHeight=40)](https://www.digitalocean.com/)
 
 
 
